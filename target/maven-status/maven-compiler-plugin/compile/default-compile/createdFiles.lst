@@ -1,0 +1,7 @@
+Fix4Me\model\services_providers_bids.class
+Fix4Me\api\requestController.class
+Fix4Me\application\Fix4Me.class
+Fix4Me\api\postController.class
+Fix4Me\application\ServletInitializer.class
+Fix4Me\model\members.class
+Fix4Me\model\services.class
